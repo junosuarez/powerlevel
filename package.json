@@ -1,0 +1,21 @@
+{
+  "name": "powerlevel",
+  "version": "9000.0.1",
+  "description": "a convenient way to see if things are powerful enough",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jden/powerlevel.git"
+  },
+  "keywords": [
+    "power"
+  ],
+  "author": "jden <jason@denizac.org>",
+  "license": "MIT"
+}
